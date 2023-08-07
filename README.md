@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ömer Yasir Önal. I am a computer engineering student at Fatih Sultan Mehmet Vakıf University.
-- 👀 I’m interested in Java, Javascript.
-- 🌱 I’m currently learning Java
+- 👋 Hi, There.
+- 👀 I want to be a Full Stack Devoloper
 - 📫 How to reach me, engomeryasironal@gmail.com
 
 <!---
