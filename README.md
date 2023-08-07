@@ -1,5 +1,5 @@
-- 👋 Hi, There.
-- 👀 I want to be a Full Stack Devoloper
+- 👋 Hi, There
+- 👀 I just want to be a Full Stack Devoloper
 - 📫 How to reach me, engomeryasironal@gmail.com
 
 <!---
